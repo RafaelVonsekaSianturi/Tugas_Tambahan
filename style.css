@@ -1,0 +1,33 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #73b3de; 
+    
+}
+
+#favorite {
+    background-color: #73b3de;
+    padding-top: 5rem;
+    margin-top: -10px;
+
+}
+
+section {
+    padding-top: 5rem;
+    margin-top: -3px;
+    background-color: #ffff;
+}
+footer {
+    margin-top: -5rem;
+    
+}
+footer a {
+    color: white; 
+    text-decoration: none; 
+    margin: 0 10px; 
+    transition: color 0.3s; 
+  }
+  
+  footer a:hover {
+    color: #00a0e3; 
+  }
+  
