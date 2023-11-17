@@ -23,7 +23,6 @@ footer {
 footer a {
     color: white; 
     text-decoration: none; 
-    margin: 0 10px; 
     transition: color 0.3s; 
   }
   
