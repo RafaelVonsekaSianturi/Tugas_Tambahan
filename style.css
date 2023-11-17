@@ -23,10 +23,13 @@ footer {
 footer a {
     color: white; 
     text-decoration: none; 
+    margin: 0 10px; 
     transition: color 0.3s; 
   }
   
   footer a:hover {
     color: #00a0e3; 
   }
+  
+
   
